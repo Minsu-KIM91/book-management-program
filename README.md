@@ -19,3 +19,10 @@
 * 회원관리 - 회원등록, 수정/탈퇴
 
 * Main.java 실행
+
+# 사진
+![1](https://user-images.githubusercontent.com/55347692/112589333-4024b580-8e44-11eb-8be4-b9165df009eb.png)
+![2](https://user-images.githubusercontent.com/55347692/112589337-40bd4c00-8e44-11eb-818f-b67e47be7ddc.PNG)
+![3](https://user-images.githubusercontent.com/55347692/112589338-4155e280-8e44-11eb-90af-50ee96ce956c.PNG)
+![4](https://user-images.githubusercontent.com/55347692/112589339-4155e280-8e44-11eb-8397-a872af7890c0.PNG)
+![5](https://user-images.githubusercontent.com/55347692/112589341-41ee7900-8e44-11eb-8417-29653e59e376.PNG)
