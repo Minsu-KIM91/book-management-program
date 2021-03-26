@@ -8,9 +8,8 @@ BookProject\src\com\norazo\dao 패키지
 
 BookProject\src\com\norazo\dto 패키지
 1. bookDTO
-2. borrowDAO
-3. borrowDTO
-4. MemberDTO
+2. borrowDTO
+3. MemberDTO
 
 BookProject\src\libraryProject 패키지
 나머지 파일 넣기.
